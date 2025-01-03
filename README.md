@@ -34,7 +34,7 @@ Installation Steps
 Step 1: Clone the Repository
 bash
 
-git clone https://github.com/your-username/recommendation-engine.git
+git clone https://github.com/NeonTech-Ecom/SmartRecoAI-
 cd recommendation-engine
 
 
